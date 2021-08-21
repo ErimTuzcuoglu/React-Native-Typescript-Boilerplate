@@ -1,0 +1,9 @@
+{
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+  "user": {
+    "email": "cefovel626@fada55.com",
+    "id": "27cb1893-e6f6-4e5e-89a2-a9b7794f9946",
+    "phoneNumber": "202-555-0177",
+    "userName": "username"
+  }
+}
