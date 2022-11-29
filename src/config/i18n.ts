@@ -43,6 +43,7 @@ i18next
   .use(languageDetector)
   .use(initReactI18next)
   .init({
+    compatibilityJSON: 'v3',
     debug: true,
     fallbackLng: 'tr',
     lng: locale.substring(0, 2),
